@@ -1,4 +1,9 @@
-.ipynb_checkpoints
-*.pdf
-*.html
-*.doc
+*
+
+!.gitignore
+!README.md
+
+!**.ipynb
+!**.py
+!**.png
+!**.jpg
