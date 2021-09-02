@@ -19,5 +19,8 @@ Após o processo de tratamento da máscara, passando pela transformação de cor
 ## Resultados da detecção
 Abaixo pode ser visto os resultados obtidos. Tem-se, respectivamente, os resultados com o modelo de cor HSV e por seguinte, os resultados com o modelo de YCrCb.
 
-![hsv_resultados]()
+HSV
+![hsv_resultados](imgs/res_hsv1.png)
+
+
 ![ycrcb_resultados]()
