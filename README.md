@@ -28,3 +28,5 @@ Abaixo pode ser visto os resultados obtidos. Tem-se, respectivamente, os resulta
 ### YCRCB
 
 ![ycrcb_resultados](imgs/res_ycrcb1.png)
+![ycrcb_resultados](imgs/res_ycrcb2.png)
+![ycrcb_resultados](imgs/res_ycrcb3.png)
