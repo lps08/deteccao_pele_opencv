@@ -22,6 +22,9 @@ Abaixo pode ser visto os resultados obtidos. Tem-se, respectivamente, os resulta
 ### HSV
 
 ![hsv_resultados](imgs/res_hsv1.png)
+![hsv_resultados](imgs/res_hsv2.png)
+![hsv_resultados](imgs/res_hsv3.png)
 
+### YCRCB
 
-![ycrcb_resultados]()
+![ycrcb_resultados](imgs/res_ycrcb1.png)
